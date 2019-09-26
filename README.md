@@ -3,9 +3,8 @@
 
 <h2>Installation</h2> 
  <ul>
-	<li><h5>Spring Starter Project Dependencies</h5></li>
-			<p>->This is a Spring Starter Project, so you just need to import it to your IDE and run the Spring Boot App to resolve the dependencies.</p>
-      <p>->Use this link (http://localhost:8080) to run the application.</p>
+	<li><h5>This is a Spring Starter Project, so you just need to import it to your IDE and run the Spring Boot App to resolve the dependencies.</h5></li>
+      <li><h5>Use this link (http://localhost:8080) to run the application.</h5></li>
 	</ul>
 
 <h2>Dependencies</h2>
