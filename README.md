@@ -3,8 +3,8 @@
 
 <h2>Installation</h2> 
  <ul>
-	<li>This is a Spring Starter Project, so you just need to import it to your IDE and run the <h5>Spring Boot App</h5> to resolve the dependencies.</li>
-      <li>Use this link (<h5>http://localhost:8080</h5>) to run the application.</li>
+	<li>This is a Spring Starter Project, so you just need to import it to your IDE and run the <b>Spring Boot App</b> to resolve the dependencies.</li>
+	<li>Use this link (<b>http://localhost:8080</b>) to run the application.</li>
 	</ul>
 
 <h2>Dependencies</h2>
@@ -29,9 +29,9 @@
   
  <h2>Database configuration</h2> 
  <ul>
-		<li>H2 embdded database uses for this application so to access into the database use this link (<h5>http://localhost:8080/h2-console</h5>) and use (<h5>jdbc:h2:mem:technardiot</h5>) as JDBC URL.</li>
-		<li>Connect and run this (<h5>SELECT * FROM CUSTOMER</h5>) query to see the existing data in database.</li>
-		<li>Existing data has entered using the <h5>data.sql</h5> file.</li>
+		<li>H2 embdded database uses for this application so to access into the database use this link (<b>http://localhost:8080/h2-console</b>) and use (<b>jdbc:h2:mem:technardiot</b>) as JDBC URL.</li>
+		<li>Connect and run this (<b>SELECT * FROM CUSTOMER</b>) query to see the existing data in database.</li>
+		<li>Existing data has entered using the <b>data.sql</b> file.</li>
  </ul>
  
  
