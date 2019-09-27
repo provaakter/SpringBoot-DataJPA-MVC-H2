@@ -13,7 +13,6 @@
 			<p>->Spring Data JPA</p>
       <p>->H2 Database</p>
       <p>->Spring Web</p>
-      <p>->Rest Repositories</p>
 	  <li><h5>Dependency for Running the JSP Page</h5></li>
 			<p>->Tomcat Jasper - Version 9.0.22</p>
     <li><h5>Dependency for Auto Relunch the Application</h5></li>
